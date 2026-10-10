@@ -1,5 +1,6 @@
-# 💫 About Me:
-I'm a cybersecurity enthusiast focused on Cloud Security, DevSecOps, and building secure, reliable infrastructure.<br><br>I'm continuously developing my skills in Amazon Web Services (AWS), Linux, automation, and security engineering through hands-on projects and practical learning.<br><br>I’m passionate about understanding how systems work, solving technical problems, and applying security best practices to real-world environments.<br><br>Currently building practical experience in cloud technologies, infrastructure security, and secure development workflows, with the goal of contributing to resilient and scalable systems.<br><br>Always learning. Building with purpose. Securing by design. 🔐☁️
+# 💫 Boluwatife Dada
+----------------------------------------------------------------------------------------
+I'm a **cybersecurity enthusiast** focused on **Cloud Security**, **DevSecOps**, and building secure, reliable infrastructure.<br><br>I'm continuously developing my skills in Amazon Web Services (AWS), Linux, automation, and security engineering through hands-on projects and practical learning.<br><br>I’m passionate about understanding how systems work, solving technical problems, and applying security best practices to real-world environments.<br><br>Currently building practical experience in cloud technologies, infrastructure security, and secure development workflows, with the goal of contributing to resilient and scalable systems.<br><br>Always learning. Building with purpose. Securing by design. 🔐☁️
 
 
 ## 🌐 Socials:
